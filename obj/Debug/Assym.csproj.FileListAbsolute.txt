@@ -1,0 +1,9 @@
+J:\ЛабыПестунов\source\repos\Assym\obj\Debug\Assym.csprojAssemblyReference.cache
+J:\ЛабыПестунов\source\repos\Assym\obj\Debug\Assym.Form1.resources
+J:\ЛабыПестунов\source\repos\Assym\obj\Debug\Assym.Properties.Resources.resources
+J:\ЛабыПестунов\source\repos\Assym\obj\Debug\Assym.csproj.GenerateResource.cache
+J:\ЛабыПестунов\source\repos\Assym\bin\Debug\Assym.exe.config
+J:\ЛабыПестунов\source\repos\Assym\bin\Debug\Assym.exe
+J:\ЛабыПестунов\source\repos\Assym\bin\Debug\Assym.pdb
+J:\ЛабыПестунов\source\repos\Assym\obj\Debug\Assym.exe
+J:\ЛабыПестунов\source\repos\Assym\obj\Debug\Assym.pdb
